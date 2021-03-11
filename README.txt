@@ -1,7 +1,7 @@
-*************** Distributed System Programming****************
+*************** Distributed System Programming ****************
 
-**** student: **********
-  - Moshe Dahan - 203509229
+**** Owner: **********
+  - Moshe Dahan
 
 ****************** System Overview and objective ***********
 In our assignment, we were tasked to create a real-world application to distributively
